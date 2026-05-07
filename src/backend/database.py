@@ -121,14 +121,14 @@ initial_activities = {
         "participants": ["james@mergington.edu", "benjamin@mergington.edu"]
     },
     "Manga Maniacs": {
-        "description": "Step into the world of Japanese Manga (graphic novels), follow unforgettable heroes and rivals, and share your favorite story arcs each week.",
-        "schedule": "Tuesdays, 7:00 PM - 8:00 PM",
+        "description": "Enter a world where every panel pulses with power and every page turn reveals a new destiny! Join fellow manga warriors as we explore legendary battles, epic rivalries, and heartfelt journeys through the greatest Japanese Manga ever created. Debate the best story arcs, discover hidden gems, and unleash your inner protagonist!",
+        "schedule": "Tuesdays, 5:00 PM - 6:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "20:00"
+            "start_time": "17:00",
+            "end_time": "18:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     },
     "Debate Team": {
